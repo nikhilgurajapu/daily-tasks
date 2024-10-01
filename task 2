@@ -1,0 +1,4 @@
+#program_to_create_to-print_1to100_using_for_loop
+
+for i in range(1,100):
+    print(i,end=" ")

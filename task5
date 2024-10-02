@@ -1,0 +1,7 @@
+n = "noone"
+fn = n[::-1]
+if n==fn:
+    print(f"{n} is a palindrome")
+else:
+    print(f"{n} is not a palindrome")
+    

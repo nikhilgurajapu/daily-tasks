@@ -13,4 +13,3 @@ count_even = len(even_li)
 count_odd = len(odd_li)
 print(f'number of even numbers is {count_even}')
 print(f'number of odd numbers is {count_odd}')
-    

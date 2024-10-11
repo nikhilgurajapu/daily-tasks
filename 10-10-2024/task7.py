@@ -4,7 +4,7 @@ l1 = ["kowshik","nikhil","neon","teena","swetha","manoj"]
 l1.reverse()
 print(l1)
 
-print("-----------------------------")
+print("----------------------------")
 
 result = l1[::-1]
 print(result)

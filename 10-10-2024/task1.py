@@ -12,9 +12,6 @@ for i in range(input_len):
         l.append(input[0:1])
 print(l)"""
 
-output = '\n'.join([''.join(map(str, row)) for row in input_data])
-print(type(output))
-
 for row in input_data:
     ''.join(map(str,row))
     print(str(row))

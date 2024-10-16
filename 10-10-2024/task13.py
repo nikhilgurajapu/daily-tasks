@@ -5,3 +5,4 @@ list = ["john","ranjitha","reethu","roshini","ramya","vandhana","sara"]
 
 if "john" and "sara" in list:
     print("yes, both are There")
+

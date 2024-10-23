@@ -4,7 +4,7 @@ t = {"a":55,"age":19,"sex":"female"}
 p ={}
 for key in t:
     if key in d:
-        t[key] = t[key] + d[key]
+        t[key] += d[key]
     else:
         pass
 

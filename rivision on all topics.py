@@ -26,7 +26,7 @@ else:
 
 
 
-tuples sets dictionaries functions exception handlings oops:
+"""tuples sets dictionaries functions exception handlings oops:
 clases ===> blueprint
 objects ====> intance of classes
 
@@ -34,7 +34,7 @@ objects ====> intance of classes
 encapsulation
 polymorphism
 abstraction
-inheritence
+inheritence"""
 #topics we covered
 list =[1,2,3,4,5,6,7,8]
 b =list.index(2)

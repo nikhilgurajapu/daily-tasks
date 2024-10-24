@@ -29,8 +29,8 @@ greet()
 """
 #Variable Length Arguments: Variable length arguments are packed as tuple. 
 
-def more_args(*args):
-  print(args) # (1, 2, 3, 4) 
+def more_args(*l):
+  print(l) # (1, 2, 3, 4) 
 more_args(1, 2, 3, 4)  
 
 

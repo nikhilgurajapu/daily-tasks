@@ -112,3 +112,27 @@ def calculator(n1, n2, operator):
         return "Error: Invalid operator"
 print(calculator(15, 5, "+"))
 print(calculator(20, 2, "-"))
+
+
+
+#10.Write a function `find_common_elements` that takes two lists as input and returns a list
+#  of elements that are present in both lists.
+def common_elements(l1, l2):
+    return [element for element in l1 if element in l2]
+
+l1 =[1,2,3,4]
+l2 = [2,3,4,5,6,7]
+print(common_elements(l1,l2))
+
+
+#11.Write a function `reverse_string` that takes a string as input and returns the string reversed.
+def reverse_string(s):
+    return s[::-1]
+
+print(reverse_string("Nikhil"))
+
+
+#12.Write a function `sort_dict_by_value` that takes a dictionary as input and returns
+#  a list of tuples sorted by the dictionary
+#  values in ascending order.
+

@@ -39,9 +39,11 @@ A web page that uses Django is full of views with different tasks and missions.
 Views are usually put in a file called views.py located on your app's folder.
 
 
+
 rest framework:-
         Django REST framework is a powerful and flexible toolkit for building Web APIs.
 Some reasons you might want to use REST framework: The Web browsable API is a huge usability win for your developers
+
 
 requests and response:-
           Django uses request and response objects to pass state through the system.

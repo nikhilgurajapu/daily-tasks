@@ -28,3 +28,5 @@ class employee:
 p = employee("nikhil",25,"html,css,js")
 p.display()
 
+
+#2nd example

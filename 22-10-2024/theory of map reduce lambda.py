@@ -1,4 +1,5 @@
 """
+todays topic:-
 map()
 filter()
 lambda()

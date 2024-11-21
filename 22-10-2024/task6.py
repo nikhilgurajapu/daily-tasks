@@ -7,3 +7,4 @@ print("----------------------------------------------------------")
 
 odd_num = filter((lambda x : x % 2 != 0),nums)
 print(list((odd_num)))
+
